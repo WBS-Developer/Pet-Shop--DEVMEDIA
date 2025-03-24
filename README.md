@@ -1,4 +1,4 @@
-__**Objetivo&&__
+__**Objetivo**__
 
 A proposta desse projeto é criar um site para um Pet Shop utilizando as linguagens HTML e CSS. Dessa forma, você poderá colocar em prática os seguintes conceitos:
 
