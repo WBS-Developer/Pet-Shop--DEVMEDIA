@@ -65,3 +65,21 @@
     width: 20px;
     margin-left: 10px;
 }
+.servicos{
+    width: 100%;
+    padding: 120px 80px
+}
+.servicos h3{
+    font-size:36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+
+
+}
+.lista-servicos{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+    
+}
