@@ -77,9 +77,30 @@
 
 
 }
-.lista-servicos{
+.container-lista{
     max-width: 800px;
     margin: 0 auto 50px auto;
     color: #3c184e;
-    
+}
+.lista-servicos{
+    list-style-type: square;
+}
+.lista-servicos li{
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+.lista-servicos span{
+    font-weight:700;
+    font-style: italic;
+}
+.container-imagens{
+
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.container-imagens img{
+border-radius: 5px;
+box-shadow: 3px 6px 10px 6px #0000005c;
+
 }
