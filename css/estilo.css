@@ -66,7 +66,7 @@
     margin-left: 10px;
 }
 .servicos{
-    width: 100%;
+    width: 100vw;
     padding: 120px 80px
 }
 .servicos h3{
@@ -128,4 +128,26 @@ box-shadow: 3px 6px 10px 6px #0000005c;
 .redes-sociais a img{
     width: 50px;
     height: 50px
+}
+.marcas{
+    width: 100vw;
+    padding: 120px 80px;
+}
+.marcas h3{
+
+    font-size: 36px;
+    color:#3c184e;
+    text-align: center;
+    margin: 0 auto 45px ;
+}
+.marcas div{
+    
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center ;
+}
+.marcas div img{
+    height: 148px;
+    width: 148px;
+    margin: 0 15px;
 }
