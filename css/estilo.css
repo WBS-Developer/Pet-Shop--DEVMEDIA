@@ -151,3 +151,21 @@ box-shadow: 3px 6px 10px 6px #0000005c;
     width: 148px;
     margin: 0 15px;
 }
+.onde_estamos{
+    width: 100vw;
+    padding: 120px 80px;
+    text-align: center;
+}
+.onde_estamos h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+.onde_estamos p{
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+    
+}
