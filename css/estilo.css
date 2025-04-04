@@ -169,3 +169,17 @@ box-shadow: 3px 6px 10px 6px #0000005c;
     margin: 0 0 45px 0;
     
 }
+.rodape{
+    width: 100vw;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+.rodape p, a{
+    color: #fff;
+    font-size:12px;
+    text-align:center;
+}
+.rodape a{
+    font-weight: bold;
+    font-size: small;
+}
